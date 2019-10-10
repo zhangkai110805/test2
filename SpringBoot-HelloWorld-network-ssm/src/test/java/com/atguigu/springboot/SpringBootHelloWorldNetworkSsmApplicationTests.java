@@ -12,5 +12,7 @@ public class SpringBootHelloWorldNetworkSsmApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
+	
+	public void test(){
+	}
 }
