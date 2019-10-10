@@ -11,7 +11,7 @@
 	<artifactId>SpringBoot-HelloWorld-network-ssm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot-HelloWorld-network-ssm</name>
-	<description>三大框架测试整合</description>
+	<description>框架测试整合</description>
 
 	<properties>
 		<java.version>1.8</java.version>
